@@ -75,8 +75,11 @@ The Library Building is being upgraded with network automation. Instead of manua
 
 ## 🧠 Reflection Questions
 1. What are the advantages of using DHCP over static IPs?
+One advantage of using DHCP is that is automaticly assigns an IP address to the devices that connect to the network. This help stop two devices having the same IP address leading IP address conflicts.
 2. How does DNS improve usability in a network?
+DNS is able to translate domain names (www.youtube.com) to IP addresses for the computer to use.
 3. What happens if the DHCP server goes offline?
+If the DHCP servers were to go offline, new devices might not be able to obtain an IP address, preventing them from connecting to the network and potentially stopping existing devices from accessing network resources.
 
 ---
 
