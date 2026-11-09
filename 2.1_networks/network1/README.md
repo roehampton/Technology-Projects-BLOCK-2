@@ -63,8 +63,11 @@ To assign IPs:
 
 ## 🧠 Reflection Questions
 1. What would happen if two PCs had the same IP address?
+If two computers have the same IP address it could lead to packets loss and some other consequences.
 2. Why do we use a switch instead of connecting PCs directly?
+Connecting using switches makes connect a lagre amount of PCs together easier, as it acts as a central hub for all of the computers.
 3. What does the subnet mask `255.255.255.0` mean?
+The subnet mask '255.255.255.0' tell the comptuer which part of the IP address identifies the network and which part identifies an individual device.
 
 ---
 
